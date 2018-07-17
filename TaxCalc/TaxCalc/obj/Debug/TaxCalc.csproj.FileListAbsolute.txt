@@ -1,0 +1,9 @@
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe.config
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\bin\Debug\TaxCalc.exe
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\bin\Debug\TaxCalc.pdb
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\obj\Debug\TaxCalc.csprojResolveAssemblyReference.cache
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\obj\Debug\TaxCalc.Form1.resources
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\obj\Debug\TaxCalc.Properties.Resources.resources
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\obj\Debug\TaxCalc.csproj.GenerateResource.Cache
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\obj\Debug\TaxCalc.exe
+C:\Users\開発\Downloads\TEST ASP\TaxCalc\TaxCalc\obj\Debug\TaxCalc.pdb
