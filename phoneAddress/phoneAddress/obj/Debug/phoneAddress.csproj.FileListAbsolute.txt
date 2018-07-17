@@ -1,0 +1,9 @@
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\bin\Debug\phoneAddress.exe.config
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\bin\Debug\phoneAddress.exe
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\bin\Debug\phoneAddress.pdb
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\obj\Debug\phoneAddress.csprojResolveAssemblyReference.cache
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\obj\Debug\phoneAddress.Form1.resources
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\obj\Debug\phoneAddress.Properties.Resources.resources
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\obj\Debug\phoneAddress.csproj.GenerateResource.Cache
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\obj\Debug\phoneAddress.exe
+C:\Users\開発\Downloads\TEST ASP\phoneAddress\phoneAddress\obj\Debug\phoneAddress.pdb
