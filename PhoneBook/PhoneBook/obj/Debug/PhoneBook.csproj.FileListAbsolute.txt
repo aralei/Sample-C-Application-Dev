@@ -1,0 +1,8 @@
+C:\Users\開発\Downloads\TEST ASP\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\開発\Downloads\TEST ASP\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\開発\Downloads\TEST ASP\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\開発\Downloads\TEST ASP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\開発\Downloads\TEST ASP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\開発\Downloads\TEST ASP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+C:\Users\開発\Downloads\TEST ASP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\開発\Downloads\TEST ASP\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
